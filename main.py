@@ -1,3 +1,7 @@
+"""
+Todo List project for managing tasks in the command prompt in tabular form and using the Rich library
+"""
+
 # Used SQLite Library
 import sqlite3
 import time
@@ -178,4 +182,5 @@ while 1:
        
 
     
+
 
